@@ -1,4 +1,4 @@
-**Personal Portfolio - Indra Teja Attimalla**
+**Personal Portfolio - Venkata Narayana Guttha**
 **Overview**
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript.
@@ -53,7 +53,7 @@ Add contact form integration
 
 **Author**
 
-**Indra Teja Attimalla**
+**Venkata Narayana Guttha**
 
 LinkedIn
 
